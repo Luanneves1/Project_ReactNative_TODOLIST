@@ -1,6 +1,5 @@
 # Meu Projeto
 
-Este é um exemplo de README para o meu projeto incrível.
 
 ## Capturas de Tela
 
